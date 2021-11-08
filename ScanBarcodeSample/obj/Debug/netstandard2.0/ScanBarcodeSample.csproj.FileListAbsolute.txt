@@ -1,0 +1,30 @@
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\bin\Debug\netstandard2.0\ScanBarcodeSample.deps.json
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\bin\Debug\netstandard2.0\ScanBarcodeSample.dll
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\bin\Debug\netstandard2.0\ref\ScanBarcodeSample.dll
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\bin\Debug\netstandard2.0\ScanBarcodeSample.pdb
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.csproj.AssemblyReference.cache
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.AssemblyInfoInputs.cache
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.AssemblyInfo.cs
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.dll
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\obj\Debug\netstandard2.0\ref\ScanBarcodeSample.dll
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.pdb
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\bin\Debug\netstandard2.0\ScanBarcodeSample.deps.json
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\bin\Debug\netstandard2.0\ScanBarcodeSample.dll
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\bin\Debug\netstandard2.0\ref\ScanBarcodeSample.dll
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\bin\Debug\netstandard2.0\ScanBarcodeSample.pdb
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.csproj.AssemblyReference.cache
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.AssemblyInfoInputs.cache
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.AssemblyInfo.cs
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.dll
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\obj\Debug\netstandard2.0\ref\ScanBarcodeSample.dll
+C:\Users\Justin\Documents\portfolio\proftaak\plasscanner copy\ScanBarcodeSample\obj\Debug\netstandard2.0\ScanBarcodeSample.pdb

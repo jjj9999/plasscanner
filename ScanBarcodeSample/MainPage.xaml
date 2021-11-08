@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ScanBarcodeSample.MainPage"
+             xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms">
+    <StackLayout>
+        <Frame BackgroundColor="Green" Padding="24" CornerRadius="0" OutlineColor="Purple" >
+            <Label Text=" [̅P̲̅L̲̅A̲̅S̲̅S̲̅C̲̅A̲̅N̲̅N̲̅E̲̅R̲̅] " HorizontalTextAlignment="Center" TextColor="Black" FontSize="36" Padding="10" FontAttributes="Bold" />
+
+        </Frame>
+        <Frame BackgroundColor="Green" Padding="24" CornerRadius="0" OutlineColor="Purple">
+
+            <Label Text="Results will appear here" x:Name="scanResultText" TextColor="Black" FontAttributes="Bold"/>
+        </Frame>
+        <zxing:ZXingScannerView IsScanning="True" OnScanResult="ZXingScannerView_OnScanResult" />
+        <SwipeView>
+            <SwipeView.BottomItems>
+                <SwipeItems>
+                    <SwipeItem Text="Sprite (-4%)" BackgroundColor="Aqua" />
+                    <SwipeItem Text="Sinas (-5%)" BackgroundColor="Aqua" />
+                    <SwipeItem Text="Pepsi (-4%)" BackgroundColor="Aqua" />
+                    <SwipeItem Text="TAP"/>
+                </SwipeItems>
+            </SwipeView.BottomItems>
+            <SwipeView.TopItems>
+                <SwipeItems Mode="Execute">
+                    <SwipeItem Text="Database" BackgroundColor="Green" Invoked="SwipeItem_Invoked"></SwipeItem>
+                </SwipeItems>
+            </SwipeView.TopItems>
+            <Frame BackgroundColor="Green" OutlineColor="Purple">
+                <Label Text="See Alternative Products ↑ Extra ↓" HorizontalTextAlignment="Center" FontSize="17" Padding="15" FontAttributes="Bold" TextColor="Black">
+            </Label>
+        </Frame>
+        </SwipeView>
+    </StackLayout>
+</ContentPage>
